@@ -1,0 +1,1 @@
+# clodfront to cache movies content
